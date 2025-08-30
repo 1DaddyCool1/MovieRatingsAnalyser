@@ -1,0 +1,22 @@
+﻿@model MovieRatingsAnalyser.Models.Movie
+
+<h2>Edit movie</h2>
+
+<form asp-action="UpdateMovie" method="post">
+    <input type="hidden" asp-for="Id" />
+    <label>Title:</label>
+    <input type="text" asp-for="Title" /><br />
+    <label>Genre:</label>
+    <input type="text" asp-for="Genre" /><br />
+    <label>Rating:</label>
+    <input type="number" step="0.1" asp-for="Rating" /><br />
+    <label>Year:</label>
+    <input type="number" asp-for="Year" /><br />
+    <label>Source:</label>
+    <input type="text" asp-for="Source" /><br />
+    <label>Review Date:</label>
+    <input type="date" asp-for="ReviewDate" /><br />
+
+    <button type="submit">Save</button>
+
+    </form>

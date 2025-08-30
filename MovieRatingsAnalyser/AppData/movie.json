@@ -1,0 +1,227 @@
+[
+  {
+    "Id": 3,
+    "Title": "The Dark Knight",
+    "Genre": "Action",
+    "Rating": 9,
+    "Source": "Rotten Tomatoes",
+    "Year": 2008,
+    "ReviewDate": "2024-03-12T00:00:00"
+  },
+  {
+    "Id": 4,
+    "Title": "Pulp Fiction",
+    "Genre": "Crime",
+    "Rating": 8,
+    "Source": "IMDb",
+    "Year": 1994,
+    "ReviewDate": "2023-04-05T00:00:00"
+  },
+  {
+    "Id": 5,
+    "Title": "Forrest Gump",
+    "Genre": "Drama",
+    "Rating": 9,
+    "Source": "Rotten Tomatoes",
+    "Year": 1994,
+    "ReviewDate": "2025-05-18T00:00:00"
+  },
+  {
+    "Id": 6,
+    "Title": "Inception",
+    "Genre": "Sci-Fi",
+    "Rating": 8,
+    "Source": "IMDb",
+    "Year": 2010,
+    "ReviewDate": "2025-06-22T00:00:00"
+  },
+  {
+    "Id": 7,
+    "Title": "Fight Club",
+    "Genre": "Drama",
+    "Rating": 8,
+    "Source": "Rotten Tomatoes",
+    "Year": 1999,
+    "ReviewDate": "2024-07-08T00:00:00"
+  },
+  {
+    "Id": 8,
+    "Title": "The Matrix",
+    "Genre": "Sci-Fi",
+    "Rating": 8,
+    "Source": "IMDb",
+    "Year": 1999,
+    "ReviewDate": "2023-08-11T00:00:00"
+  },
+  {
+    "Id": 9,
+    "Title": "Goodfellas",
+    "Genre": "Crime",
+    "Rating": 10,
+    "Source": "IMDb",
+    "Year": 1990,
+    "ReviewDate": "2025-09-30T00:00:00"
+  },
+  {
+    "Id": 10,
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Genre": "Fantasy",
+    "Rating": 9,
+    "Source": "Rotten Tomatoes",
+    "Year": 2001,
+    "ReviewDate": "2025-10-14T00:00:00"
+  },
+  {
+    "Id": 11,
+    "Title": "The Lord of the Rings: The Two Towers",
+    "Genre": "Fantasy",
+    "Rating": 9,
+    "Source": "IMDb",
+    "Year": 2002,
+    "ReviewDate": "2024-11-02T00:00:00"
+  },
+  {
+    "Id": 12,
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Genre": "Fantasy",
+    "Rating": 5,
+    "Source": "Rotten Tomatoes",
+    "Year": 2003,
+    "ReviewDate": "2025-12-25T00:00:00"
+  },
+  {
+    "Id": 13,
+    "Title": "Interstellar",
+    "Genre": "Sci-Fi",
+    "Rating": 10,
+    "Source": "IMDb",
+    "Year": 2014,
+    "ReviewDate": "2024-01-09T00:00:00"
+  },
+  {
+    "Id": 14,
+    "Title": "Se7en",
+    "Genre": "Thriller",
+    "Rating": 8,
+    "Source": "Rotten Tomatoes",
+    "Year": 1995,
+    "ReviewDate": "2024-02-19T00:00:00"
+  },
+  {
+    "Id": 15,
+    "Title": "The Silence of the Lambs",
+    "Genre": "Thriller",
+    "Rating": 10,
+    "Source": "IMDb",
+    "Year": 1991,
+    "ReviewDate": "2025-03-21T00:00:00"
+  },
+  {
+    "Id": 16,
+    "Title": "Saving Private Ryan",
+    "Genre": "War",
+    "Rating": 1,
+    "Source": "Rotten Tomatoes",
+    "Year": 1998,
+    "ReviewDate": "2025-04-10T00:00:00"
+  },
+  {
+    "Id": 17,
+    "Title": "Gladiator",
+    "Genre": "Action",
+    "Rating": 8,
+    "Source": "IMDb",
+    "Year": 2000,
+    "ReviewDate": "2025-05-05T00:00:00"
+  },
+  {
+    "Id": 18,
+    "Title": "The Green Mile",
+    "Genre": "Drama",
+    "Rating": 10,
+    "Source": "Rotten Tomatoes",
+    "Year": 1999,
+    "ReviewDate": "2025-06-15T00:00:00"
+  },
+  {
+    "Id": 19,
+    "Title": "The Lion King",
+    "Genre": "Animation",
+    "Rating": 2,
+    "Source": "IMDb",
+    "Year": 1994,
+    "ReviewDate": "2024-07-23T00:00:00"
+  },
+  {
+    "Id": 20,
+    "Title": "Schindler\u0027s List",
+    "Genre": "History",
+    "Rating": 10,
+    "Source": "Rotten Tomatoes",
+    "Year": 1993,
+    "ReviewDate": "2024-08-08T00:00:00"
+  },
+  {
+    "Id": 21,
+    "Title": "The Prestige",
+    "Genre": "Drama",
+    "Rating": 3,
+    "Source": "IMDb",
+    "Year": 2006,
+    "ReviewDate": "2025-09-12T00:00:00"
+  },
+  {
+    "Id": 22,
+    "Title": "Whiplash",
+    "Genre": "Drama",
+    "Rating": 10,
+    "Source": "Rotten Tomatoes",
+    "Year": 2014,
+    "ReviewDate": "2025-10-03T00:00:00"
+  },
+  {
+    "Id": 23,
+    "Title": "Parasite",
+    "Genre": "Thriller",
+    "Rating": 10,
+    "Source": "IMDb",
+    "Year": 2019,
+    "ReviewDate": "2025-11-19T00:00:00"
+  },
+  {
+    "Id": 24,
+    "Title": "Joker",
+    "Genre": "Drama",
+    "Rating": 10,
+    "Source": "Rotten Tomatoes",
+    "Year": 2019,
+    "ReviewDate": "2024-12-01T00:00:00"
+  },
+  {
+    "Id": 25,
+    "Title": "Avengers: Endgame",
+    "Genre": "Action",
+    "Rating": 6,
+    "Source": "IMDb",
+    "Year": 2019,
+    "ReviewDate": "2025-01-28T00:00:00"
+  },
+  {
+    "Id": 26,
+    "Title": "Avatar",
+    "Genre": "Sci-Fi",
+    "Rating": 7,
+    "Source": "Rotten Tomatoes",
+    "Year": 2009,
+    "ReviewDate": "2025-02-14T00:00:00"
+  },
+  {
+    "Id": 27,
+    "Title": "SlenderMan ",
+    "Genre": "Horror",
+    "Rating": 10,
+    "Source": "RottenTomatoes",
+    "Year": 2010,
+    "ReviewDate": "2025-03-18T00:00:00"
+  }
+]
