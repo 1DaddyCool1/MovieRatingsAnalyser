@@ -4,9 +4,9 @@
 
 <h4>Top 5 Highest-Rated Movies</h4>
 <ul>
-    @if (ViewBag.TopedRatedMovies != null)
+    @if (ViewBag.TopRatedMovies != null)
     {
-        var topMovies = (List<MovieRatingsAnalyser.Models.Movie>)ViewBag.TopedRatedMovies;
+        var topMovies = (List<MovieRatingsAnalyser.Models.Movie>)ViewBag.TopRatedMovies;
         if (topMovies.Count > 0)
         {
             foreach (var m in topMovies)

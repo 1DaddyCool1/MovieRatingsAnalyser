@@ -138,10 +138,10 @@
     "Id": 18,
     "Title": "The Green Mile",
     "Genre": "Drama",
-    "Rating": 10,
+    "Rating": 7,
     "Source": "Rotten Tomatoes",
-    "Year": 1999,
-    "ReviewDate": "2025-06-15T00:00:00"
+    "Year": 2000,
+    "ReviewDate": "2025-06-25T00:00:00"
   },
   {
     "Id": 19,
@@ -205,15 +205,6 @@
     "Source": "IMDb",
     "Year": 2019,
     "ReviewDate": "2025-01-28T00:00:00"
-  },
-  {
-    "Id": 26,
-    "Title": "Avatar",
-    "Genre": "Sci-Fi",
-    "Rating": 7,
-    "Source": "Rotten Tomatoes",
-    "Year": 2009,
-    "ReviewDate": "2025-02-14T00:00:00"
   },
   {
     "Id": 27,

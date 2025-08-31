@@ -16,7 +16,7 @@ namespace MovieRatingsAnalyser.Controllers
         public IActionResult Index()
         {
             var movies = _movieService.GetAllMovies();
-            ViewBag.TopedRatedMovies = _movieService.GetTopRatedMovies(5);
+            ViewBag.TopRatedMovies = _movieService.GetTopRatedMovies(5);
             ViewBag.WorstRatedMovies = _movieService.GetWorstRatedMovies(5);
             ViewBag.AverageRating = _movieService.GetAverageRating();
             ViewBag.BestYear = _movieService.GetTheBestYear();
@@ -51,6 +51,8 @@ namespace MovieRatingsAnalyser.Controllers
         [HttpPost]
         public IActionResult DeleteMovie(int id)
         {
+            if (id <= 0)
+                return BadRequest();
             _movieService.DeleteMovie(id);
             return RedirectToAction("Index");
         }
